@@ -1,2 +1,18 @@
-# ubuntu-macos-style-setup
-One-click MacOS style setup for Ubuntu GNOME: dock, themes, icons, cursors, fonts, blur, gestures, and top bar tweaks.
+# 🍏 Ubuntu MacOS Style Setup (GNOME)
+
+A one-click solution to make Ubuntu look like MacOS with:
+
+- Mac-style dock & Plank
+- WhiteSur theme, icons, cursors
+- Top bar tweaks (Just Perfection)
+- Blur My Shell
+- Fonts: San Francisco alternative (Cantarell / Inter)
+
+---
+
+## 🚀 One-Line Install (Recommended)
+
+Open Terminal and run:
+
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ousafyousaf/ubuntu-macos-style-setup/main/macos_style_setup.sh)"
